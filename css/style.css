@@ -1,0 +1,16 @@
+.fizzbuzz {
+	margin-left: 20px;
+	line-height: 20px;
+	text-align: center;
+}
+
+.resetButton {
+	display: inline-block;
+}
+ol, ul {
+	list-style: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
